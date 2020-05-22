@@ -1,0 +1,137 @@
+Program (str. 51)
+Programování
+Algoritmus
+Algoritmizace
+JDK/SDK
+JRE
+JVM
+Bajtkod
+jar
+OOP
+ - podstata OOP
+ - komunikace mezi objekty
+API (application programming interface)
+Pøekladaèe
+Interprety
+Hybridní jazyky
+Platformy
+Java Platformy (J2SE, J2EE, J2ME, Java Card)
+IDE
+diagram tøíd
+UML
+tøída
+objekt
+instance
+identifikátor
+reference
+klíèová slova
+metody
+ - konstruktor
+	- bezparamterický
+	- parametrický
+	- pøetížený
+	- implicitní
+	- soukromý
+	- statický
+ - návratové metody
+ - pøístupové metody
+ - koneèné metody
+ - instanèní metody
+ - statické (tøídní) metody
+ - soukromé metody
+ - pøekryté metody
+ - pøetížené metody
+ - tovární metoda (NÁVHRHOVÝ VZOR)
+halda
+datový typ
+ - Objektový
+	- String
+	- NULL
+	- rozdíl mezi prázdným Stringem a null
+ - primitivní
+promìnná
+ - inkrementace
+ - dekrementace
+konstanta (nemìnná)
+statika
+parametry
+atributy
+ - lokální
+ - instanèní
+ - statické (tøídní)
+ - konstantní
+ - globální
+literály
+magické hodnoty
+deklarace x definice x pøiøazení x implementace x inicializace
+soubory: .java (zdrojový soubor), .ctxt, .pkg, .class (bajtkód), .jar (Java ARchiver), .war (Java Web ARchiver), .properties (konfiguraèní soubor)
+bílé znaky
+substituované disky
+chyby
+ - syntaktické
+ - bìhové
+ - logické
+this x super
+testování
+ - unit testy
+	- TDD
+ - integraèní testy
+ - validaèní testy
+	- sunny days
+	- rainy days
+ - automatizované testy
+ - end to end testy
+ - manuální testy
+ - debugger
+modifikátory pøístupu (public, private, protected, prázdný)
+zapouzdøení
+ - rozhraní tøídy
+ - implementace
+ - kontrakt
+komentáøe
+ - øádkový
+ - obecný
+ - dokumentaèní
+Spustitelné soubory
+- Vytvoøení JAR
+ 	- v blueJ (184)
+		- standardní aplikace
+ 		- pro FX
+		- pøidání zdrojových souborù do archivu
+	 - v NetBeans
+		- standardní aplikace
+	 	- pro FX
+		- pøidání zdrojových souborù do archivu
+	 - v eclipse
+		- standardní aplikace
+	 	- pro FX
+		- pøidání zdrojových souborù do archivu
+	 - v IDEI
+		- standardní aplikace
+	 	- pro FX
+		- pøidání zdrojových souborù do archivu
+	 - pøes Maven
+		- standardní aplikace
+ 		- pro FX
+		- pøidání zdrojových souborù do archivu
+- Vytvoøení WAR
+ 	- v NetBeans
+	- v elipse
+	- v IDEI
+	- pøes Maven
+Návrhové vzory (design pattern)
+ - Pøepravka (Messenger)
+ - Tovární metoda (Factory method)
+ - Jedináèek (Singleton)
+ - Výètové typy (Enumeration)
+ - Služebník (Servant)
+
+Creational design patterns (6)
+AbstractFactory, Builder, Factory Method, Object Pool, Prototype, Singleton
+Structural design patterns (8)
+Adapter, Bridge, Composite, Decorator, Facade, Flyweight, Private Class Data, Proxy
+Behavioral design patterns (12)
+Chain of responsibility, Command, Interpreter, Iterator, Mediator, Memento, Null Object, Observer, State, Strategy, Template Method, Visitor
+
+Polymorfizmus (mnohotvárnost)
+Rozhraní (interface)

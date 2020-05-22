@@ -1,0 +1,4 @@
+- Co je to program?
+- co je to programování?
+- co je to algoritmus?
+- co je to algoritmizace?
