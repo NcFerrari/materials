@@ -83,7 +83,7 @@ testování
  - end to end testy
  - manuální testy
  - debugger
-modifikátory pøístupu (public, private, protected, prázdný)
+modifikátory pøístupu (public, private, protected, package-private (prázdný))
 zapouzdøení
  - rozhraní tøídy
  - implementace
@@ -125,6 +125,8 @@ Návrhové vzory (design pattern)
  - Jedináèek (Singleton)
  - Výètové typy (Enumeration)
  - Služebník (Servant)
+ - Stav (State)
+ - Zástupce (Proxy)
 
 Creational design patterns (6)
 AbstractFactory, Builder, Factory Method, Object Pool, Prototype, Singleton
@@ -135,3 +137,5 @@ Chain of responsibility, Command, Interpreter, Iterator, Mediator, Memento, Null
 
 Polymorfizmus (mnohotvárnost)
 Rozhraní (interface)
+Refactoring
+Package
