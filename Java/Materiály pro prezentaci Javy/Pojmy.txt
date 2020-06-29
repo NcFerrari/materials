@@ -71,7 +71,7 @@ chyby
  - syntaktické
  - bìhové
  - logické
-this x super
+this
 testování
  - unit testy
 	- TDD
@@ -139,3 +139,19 @@ Polymorfizmus (mnohotvárnost)
 Rozhraní (interface)
 Refactoring
 Package
+Dìdiènost
+ - rodièovská tøída
+ - potomek
+ - podobjekt rodièovské tøídy (obrázek str. 364)
+ - extends
+ - protected
+ - super
+ - abstrakce
+ - koneèné tøídy
+ - metody abstraktní tøídy
+	- pøekryté
+	- novì implementované
+	- abstraktní
+	- zdìdìné
+ - kdy dìdiènost použít a kdy ne (pravidla na stranì 426 - kdy dát pøednost skládání a kdy dìdiènosti)
+ - pøíklad na stranì 424
